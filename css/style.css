@@ -5,12 +5,13 @@
 body{
 	font-family: 'Spectral', serif;
 }
-
+.top-nav{
+	background: #E5BEED;
+}
 .navbar{
 	display: flex;
 	font-size: 30px;
 	padding: 5px 20px;
-	background: #E5BEED;
 }
 .nav-toggle{
 	margin-left: auto;
